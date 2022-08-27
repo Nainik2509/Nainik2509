@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nainik2509" alt="nainik2509" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@nainik2509" target="blank"><img src="https://img.shields.io/twitter/follow/@nainik2509?logo=twitter&style=for-the-badge" alt="@nainik2509" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nainik2509" target="blank"><img src="https://img.shields.io/twitter/follow/nainik2509?logo=twitter&style=for-the-badge" alt="nainik2509" /></a> </p>
 
 - 🔭 I’m currently working as [Full Stack Developer](https://www.linkedin.com/in/nainik-mehta-25nk12/)
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nainik2509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nainik2509" height="30" width="40" /></a>
+<a href="https://twitter.com/nainik2509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nainik2509" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nainik-mehta-25nk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nainik-mehta-25nk12" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14291373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14291373" height="30" width="40" /></a>
 <a href="https://instagram.com/nainik_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nainik_.__" height="30" width="40" /></a>
