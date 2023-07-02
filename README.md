@@ -11,7 +11,7 @@
 
 ## About Me 😇
 
-- 💁🏻‍♀️ Pronouns: She/Her
+- 💁🏻‍♀️ Pronouns: He/Him
 - 💻 I’m currently working at [York.Ie](https://york.ie/).
 - 🔭 I’m currently working as [Full Stack Developer](https://www.linkedin.com/in/nainik-mehta-25nk12/).
 - 👩🏻‍💻 I’m currently learning more about **AWS, React Native, Cloud, Lambda Functions, Serverless**.
