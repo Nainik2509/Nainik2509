@@ -1,50 +1,157 @@
-![MasterHead]('./../web-developer.gif)
+<!-- Profile README for github.com/Nainik2509 (repo: Nainik2509/Nainik2509) -->
 
-<h1 align="center"> Hello, <img src="./wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I am Nainik Mehta </h1>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Pixel-art developer room banner" width="100%" />
 
-<h3 align="center">Software Engineer| Full Stack Developer | Driving Initiatives In Executing Ideas To Reality And Surplus Them | Happy to connect 👇</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nainik2509&label=Profile%20views&color=0e75b6&style=flat" alt="nainik2509" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Nainik%20Mehta&fontColor=58a6ff&fontSize=60&fontAlign=50&fontAlignY=55&animation=fadeIn" alt="Nainik Mehta" width="100%" />
 
-## About Me 😇
+### Senior Full Stack Engineer &nbsp;·&nbsp; AI Solutions &nbsp;·&nbsp; Founder
 
-- 💁🏻‍♀️ Pronouns: He/Mr
-- 💻 I’m currently working at [York.Ie](https://york.ie/).
-- 🔭 I’m currently working as [Full Stack Developer](https://www.linkedin.com/in/nainik-mehta-25nk12/).
-- 👩🏻‍💻 I’m currently learning more about **AWS, React Native, Cloud, Lambda Functions, Serverless**.
-- 👨‍💻 All of my projects are available at [https://github.com/Nainik2509](https://github.com/Nainik2509)
-- ✍🏼 I casually write blogs on [Medium](https://medium.com/@nainik2509)
-- 🤗 I’m looking for collaborations on Building Profile, Developement and Sharing Knowledge.
-- 💬 Ask me about **Javascript, ReactJS, Redux, Nginx, NodeJS, Webpack, Chrome Extension**.
-- 📫 How to reach me **nainikmehta25@gmail.com**
-- 📄 Know about my experiences [Resume](https://matching.turing.com/developer-resume/653eb4a56d7c039206ef7209bcfac972200edd9482d84e)
-- ⚡ Fun fact **I love learning new technologies.**
+*I turn ideas into scalable products, and I lead the teams that ship them.*
 
-## Socials 🌍 -- Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/nainik2509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nainik2509" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nainik-mehta-25nk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nainik-mehta-25nk12" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14291373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14291373" height="30" width="40" /></a>
-<a href="https://instagram.com/nainik_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nainik_.__" height="30" width="40" /></a>
-<a href="https://medium.com/@nainik2509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nainik2509" height="30" width="40" /></a>
-<a href="https://discord.gg/8617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8617" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/nainikmehta"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nainikmehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://slayarcade.com"><img alt="SlayArcade" src="https://img.shields.io/badge/SlayArcade-Play%20now-7c3aed?style=for-the-badge&logo=gamepad&logoColor=white" /></a>
+  <a href="https://askastudent.net"><img alt="AskAStudent" src="https://img.shields.io/badge/AskAStudent-Visit-0ea5e9?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://twitter.com/Nainik2509"><img alt="X" src="https://img.shields.io/badge/X-@Nainik2509-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p>
+  <img alt="Experience" src="https://img.shields.io/badge/Experience-6%2B%20years-1d4ed8?style=flat-square" />
+  <img alt="Based in" src="https://img.shields.io/badge/Based%20in-Surat%2C%20India-0f172a?style=flat-square" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Nainik2509&label=Profile%20views&color=06b6d4&style=flat-square" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nainik"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nainik" /></a></p><br><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nainik2509&show_icons=true&locale=en&layout=compact" alt="nainik2509" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nainik2509&show_icons=true&locale=en" alt="nainik2509" /></p>
+## 📌 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nainik2509&" alt="nainik2509" /></p>
+6+ years building clean, reliable software, from MERN apps to AI-driven systems. I like complex requirements, small aligned teams, and shipping work that exceeds what the client asked for on performance, usability and stability.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nainik2509" alt="nainik2509" /></a> </p>
+- 🧭 **Now:** Senior Engineer (L1) and **React Guild coordinator** at [York IE](https://york.ie)
+- 🚀 **Building:** [**SlayArcade**](https://slayarcade.com) (founder) and [**AskAStudent**](https://askastudent.net) (co-founder & lead tech)
+- 🤖 **Exploring:** Claude, MCP, AI agents, RAG and voice AI with Vapi
+- 🤝 **Open to:** founders, CEOs and engineering leaders with challenging full stack or AI-driven projects
 
+---
+
+## 🚀 Ventures & Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎮 SlayArcade
+**Founder** · [slayarcade.com](https://slayarcade.com)
+
+70+ original browser games: arcade, puzzle, word, card and party. No download, no sign-up.
+
+Daily puzzles and streaks, weekly leaderboards, installable PWA with offline play, and automated tests for rules and scoring.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 AskAStudent
+**Co-Founder & Lead Tech** · [askastudent.net](https://askastudent.net)
+
+Peer-to-peer platform linking prospective students with current students at their dream universities, over video, voice and chat.
+
+**10K+** students assisted · **400+** advisors · **300+** universities.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏢 York IE
+**Senior Engineer L1** · [york.ie](https://york.ie)
+
+Investment and operating firm that builds and backs software companies.
+
+Lead the **React guild**: standards, mentoring, workshops and hackathons. Previously shipped React + AWS Amplify apps (2022–24).
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=nainik2509&theme=github-dark&mode=dark" alt="GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=nainik2509&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=nainik2509&theme=github-dark&mode=dark" alt="Language stack" width="100%" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nainik2509&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainik2509&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" width="49%" />
+</p>
+
+### 🗓️ Contributions in the Last Year
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nainik2509&theme=github-dark&mode=dark" alt="Contributions in the last year" width="100%" />
+</p>
+
+### ⚡ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nainik2509&bg_color=0d1117&color=58a6ff&line=1d4ed8&point=ffffff&area=true&area_color=1d4ed8&hide_border=true" alt="Contribution activity graph" width="100%" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,redux,webpack,vite&perline=12" alt="Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind, Bootstrap, Redux, Webpack, Vite" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,mongodb,mysql,postgres,redis,sqlite,prisma&perline=12" alt="Backend and databases: Node.js, Express, Python, Java, PHP, MongoDB, MySQL, PostgreSQL, Redis, SQLite, Prisma" />
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,digitalocean,git,github,bitbucket,figma,postman,linux&perline=12" alt="Cloud and tools: AWS, Docker, DigitalOcean, Git, GitHub, Bitbucket, Figma, Postman, Linux" />
+
+**AI engineering:** Anthropic Claude · Claude Skills · MCP · AI Agents · RAG · Vapi · Automation
+
+</div>
+
+---
+
+## 📦 Featured Projects
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=nainik2509&theme=github-dark&mode=dark&repos=nainik2509%2Fstoryquest-arena%2Cnainik2509%2FLinkedIn-Content-Automation%2Cnainik2509%2Fnode-boilerplate-2025%2Cnainik2509%2Freact-bolierplate-2025" alt="Featured projects" width="100%" />
+</p>
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**storyquest-arena**](https://github.com/Nainik2509/storyquest-arena) | Voice-controlled multiplayer learning game that disguises education as storytelling adventures | Next.js · TypeScript · Tailwind · Socket.IO |
+| [**LinkedIn-Content-Automation**](https://github.com/Nainik2509/LinkedIn-Content-Automation) | Pipeline that researches a tech topic, writes a post with an optional AI image and schedules it daily, with fallbacks | Workflow automation · AI |
+| [**node-boilerplate-2025**](https://github.com/Nainik2509/node-boilerplate-2025) | Base Node.js + Express + MongoDB project | Node.js · Express · MongoDB |
+| [**react-bolierplate-2025**](https://github.com/Nainik2509/react-bolierplate-2025) | Modern, scalable React starter kit | React · JavaScript |
+| [**hub-builder**](https://github.com/Nainik2509/hub-builder) | SaaS website builder, project management and dashboard | Next.js 14 · Bun · Stripe Connect · Prisma · MySQL |
+
+---
+
+## 🔗 Connect with Me
+
+I'm happy to talk about full stack engineering, AI-driven products, startups, or working together.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nainikmehta"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Nainik2509"><img alt="Follow on X" src="https://img.shields.io/badge/Follow%20on-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
