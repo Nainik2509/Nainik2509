@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Nainik%20Mehta&fontColor=58a6ff&fontSize=60&fontAlign=50&fontAlignY=55&animation=fadeIn" alt="Nainik Mehta" width="100%" />
 
-### Senior Full Stack Engineer &nbsp;·&nbsp; AI Solutions &nbsp;·&nbsp; Founder
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Senior+Full+Stack+Engineer;AI+Solutions+%26+Agents;Founder+%40+SlayArcade+%26+AskAStudent;React+Guild+Lead+%40+York+IE" alt="Senior Full Stack Engineer · AI Solutions · Founder" />
 
 *I turn ideas into scalable products, and I lead the teams that ship them.*
 
@@ -35,6 +35,16 @@
 - 🚀 **Building:** [**SlayArcade**](https://slayarcade.com) (founder) and [**AskAStudent**](https://askastudent.net) (co-founder & lead tech)
 - 🤖 **Exploring:** Claude, MCP, AI agents, RAG and voice AI with Vapi
 - 🤝 **Open to:** founders, CEOs and engineering leaders with challenging full stack or AI-driven projects
+
+---
+
+## 🛰️ Currently
+
+| When | What |
+| :-- | :-- |
+| **Nov 2026** | Leading the React guild at York IE; running SlayArcade and AskAStudent alongside |
+| **Nov 2026** | Building short-form video tooling in TypeScript ([viral-short-reels](https://github.com/Nainik2509/viral-short-reels), [short-videos-clips](https://github.com/Nainik2509/short-videos-clips)) |
+| **2026** | Studying the *Claude Certified Architect: Foundations* material; shipping AI agents and automations |
 
 ---
 
@@ -75,6 +85,11 @@ Lead the **React guild**: standards, mentoring, workshops and hackathons. Previo
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://slayarcade.com"><img src="https://slayarcade.com/opengraph-image" alt="SlayArcade home page preview" width="49%" /></a>
+  <a href="https://askastudent.net"><img src="https://askastudent.net/public/logo.png" alt="AskAStudent logo" width="20%" /></a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats & Trophies
@@ -91,8 +106,14 @@ Lead the **React guild**: standards, mentoring, workshops and hackathons. Previo
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nainik2509&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainik2509&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nainik2509&show_icons=true&hide_border=true&theme=default&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Nainik2509&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainik2509&layout=compact&hide_border=true&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainik2509&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" width="49%" />
+  </picture>
 </p>
 
 ### 🗓️ Contributions in the Last Year
@@ -131,6 +152,12 @@ Lead the **React guild**: standards, mentoring, workshops and hackathons. Previo
 
 ---
 
+## 🎓 Education
+
+**Bachelor's degree** · C K Pithawala College of Engineering & Technology, Surat · 2016–2020
+
+---
+
 ## 📦 Featured Projects
 
 <p align="center">
@@ -144,6 +171,22 @@ Lead the **React guild**: standards, mentoring, workshops and hackathons. Previo
 | [**node-boilerplate-2025**](https://github.com/Nainik2509/node-boilerplate-2025) | Base Node.js + Express + MongoDB project | Node.js · Express · MongoDB |
 | [**react-bolierplate-2025**](https://github.com/Nainik2509/react-bolierplate-2025) | Modern, scalable React starter kit | React · JavaScript |
 | [**hub-builder**](https://github.com/Nainik2509/hub-builder) | SaaS website builder, project management and dashboard | Next.js 14 · Bun · Stripe Connect · Prisma · MySQL |
+
+---
+
+## 🆕 Latest Repositories
+
+<!-- LATEST-REPOS:START -->
+| Repository | About | Language | Updated |
+| :-- | :-- | :-- | :-- |
+| [**viral-short-reels**](https://github.com/Nainik2509/viral-short-reels) | - | TypeScript | 2026-11-19 |
+| [**short-videos-clips**](https://github.com/Nainik2509/short-videos-clips) | - | TypeScript | 2026-11-17 |
+| [**LinkedIn-Content-Automation**](https://github.com/Nainik2509/LinkedIn-Content-Automation) | An automated pipeline that researches a tech topic, writes a social media post with an... | - | 2026-08-21 |
+| [**storyquest-arena**](https://github.com/Nainik2509/storyquest-arena) | The world's first voice-controlled multiplayer learning game that disguises education a... | TypeScript | 2026-07-18 |
+| [**stock-screener**](https://github.com/Nainik2509/stock-screener) | - | TypeScript | 2026-06-25 |
+<!-- LATEST-REPOS:END -->
+
+<sub>Refreshed automatically every day by a GitHub Action.</sub>
 
 ---
 
